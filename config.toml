@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://aniket-kr1030.github.io/'
 languageCode = 'en-us'
 title = 'The Maths Behind Machine Learning'
 theme = 'aether'
