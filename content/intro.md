@@ -11,12 +11,12 @@ Machine Learning Mathematics
 
 
 
-![Linear Algebra Content](/Lin1.png)
+![Linear Algebra Content](Lin1.png)
 
 
-![Statistics Content](/Stat1.png)
+![Statistics Content](Stat1.png)
 
 
-![Probability Content](/Prob1.png)
+![Probability Content](Prob1.png)
 
     - Aniket Kumar
